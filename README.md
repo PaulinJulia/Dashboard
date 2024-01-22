@@ -1,7 +1,7 @@
 # Dashboard
 
 ```
-url github
+https://github.com/PaulinJulia/Dashboard
 ```
 
 ## Description
