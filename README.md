@@ -15,7 +15,7 @@ On your first card, you can add, save, and cancel web links you like and often u
 Your second card contains your local weather and the two following days weather. By using the Geolocation API the user allows to provide their location.  
 On the third card, you have the top three latest headlines in Sweden there you can click on the headline and read the published article by the author.  
 The last card has a text field where you can write some own notes.  
-And on the bottom of your dashboard you can by a click on the button change the background image to un random photo from Unsplash.
+And on the bottom of your dashboard you can by a click on the button change the background image to an random photo from Unsplash or search for a randomized image within that theme. 
 
 ## Strengths and weaknesses
 
@@ -28,9 +28,9 @@ The API that is used for the weather does not contain any icons which could have
 
 Regarding the card with the top three headlines, the code snippet that contains the picked values could have been simplified with a higher-order function.
 
-In general, the code could have been better on error handling. It could have been better on catching errors meanwhile developing and for publishing this project displaying errors feel like a given user-friendly function.
+In general, the code could have been better on error handling. As catching errors during the development process and displaying errors feel like a given user-friendly function.
 
-During this project I have struggled against the time and lacking knowledge. It have been a big challange and therefore I think the perform of methods and errors have been sett aside to achive this project. But I am happy with the result so far and I have learned a lot.
+During this project I have struggled against the time and lacking knowledge. It have been a big challange and therefore I think the perform of methods and errors have been sett aside to achive this project. I am still happy with the result so far and I have learned a lot.
 
 ## Visuals
 
