@@ -56,6 +56,7 @@ Weather - https://api.open-meteo.com
 API - key
 News API - https://newsapi.org/v2/top-headlines?country=se&apiKey=your_api_key_here
 Unsplash - https://api.unsplash.com/photos/random/?client_id=your_api_key_here
+Unsplash - https://api.unsplash.com/search/photos?query=${searchWord}&client_id=your_api_key_here
 ```
 
 ## Usage
